@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "596925725233",
+    "project_id": "todatdrink",
+    "storage_bucket": "todatdrink.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:596925725233:android:a92c37f9e470078bf1f310",
+        "android_client_info": {
+          "package_name": "todaydrink.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "596925725233-goum93k51c4s6p7uqqs3ltns1djar68v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUY_IGEXyFL4DBemM25mNhg9WUDw8bAsw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "596925725233-goum93k51c4s6p7uqqs3ltns1djar68v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
